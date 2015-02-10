@@ -1,0 +1,14 @@
+{
+  "name": "EasyClockKiller",
+  "version": "1.0.0",
+  "description": "Screw this, I'm salaried.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FoxxMD",
+  "license": "MIT",
+  "dependencies": {
+    "casperjs": "^1.1.0-beta3"
+  }
+}
